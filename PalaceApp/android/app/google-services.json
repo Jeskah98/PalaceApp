@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285929746654",
+    "project_id": "jeskahspalace-69689",
+    "storage_bucket": "jeskahspalace-69689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285929746654:android:d8b4de62a9095f974dd24f",
+        "android_client_info": {
+          "package_name": "com.palaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285929746654-n2uj8799sndqh6r9nekf2hmbidnvrb89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKlgTBPbLkyBFpWLXeSl561FVgLNL8WQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285929746654-n2uj8799sndqh6r9nekf2hmbidnvrb89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
